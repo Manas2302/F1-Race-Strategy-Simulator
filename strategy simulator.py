@@ -6,7 +6,7 @@ optimal pit-stop window for a chosen stint.
 
 NEW in v3:
   - Configurable YEAR / TRACK / SESSION / DRIVERS list at the top
-  - Session loaded once; each driver extracted independently
+  - Session loaded once;  each driver extracted independently
   - Auto-selects the longest valid stint per driver
   - Graceful handling of DNFs, missing data, and short stints
   - Per-driver base-case analysis + driver comparison overlay plot
