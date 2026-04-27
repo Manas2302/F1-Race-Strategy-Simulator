@@ -1,1 +1,4 @@
-
+fastf1
+pandas
+numpy
+matplotlib
