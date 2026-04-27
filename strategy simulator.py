@@ -3,7 +3,7 @@ F1 Race Strategy Simulator  (v3 - Multi-Driver / Any Race)
 ===========================================================
 Uses FastF1 race data to model tyre degradation and simulate the
 optimal pit-stop window for a chosen stint.
-
+# Final version - cleaned structure
 NEW in v3:
   - Configurable YEAR / TRACK / SESSION / DRIVERS list at the top
   - Session loaded once;  each driver extracted independently
